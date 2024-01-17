@@ -13,7 +13,8 @@ Just discovered Lit...
 ## Links
 
 Official main site    
-- https://www.lit.dev  
+- https://www.lit.dev    
+- https://lit.dev/playground/  
 
 ### YouTube videos
 
