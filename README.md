@@ -12,6 +12,9 @@ Just discovered Lit...
 
 ## Links
 
+Official main site    
+- https://www.lit.dev  
+
 ### YouTube videos
 
 You can use Lit Everywhere  
