@@ -41,7 +41,7 @@ Modern Lit tutorial
 - https://www.youtube.com/watch?v=GlPa1wM41fQ
 
 Make Web Components great with Lit  
-https://www.youtube.com/watch?v=tzDcgII7W14  
+- https://www.youtube.com/watch?v=tzDcgII7W14  
 
 What Is Lit? - A Web Component Based Framework  
 - https://www.youtube.com/watch?v=ndZ8vcxNp0Q  
