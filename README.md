@@ -53,5 +53,10 @@ Lit 2.0 in 60 Seconds
 - https://www.youtube.com/watch?v=tiDv3jJO8Og  
 
 Why is Lit so fast? 🔥 (30% faster rendering than React!)    
-- https://www.youtube.com/watch?v=zB9tEQYLPL4  
+- https://www.youtube.com/watch?v=zB9tEQYLPL4
+
+LitElement app tutorial part 1: Getting started  
+- https://www.youtube.com/watch?v=UcCsGZDCw-Q  
+
+- 
 
